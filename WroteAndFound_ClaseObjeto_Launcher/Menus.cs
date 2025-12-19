@@ -285,7 +285,6 @@ class Menus
         }
     }
 
-    /// OPCIÓN LIBROS
 
     // Menú de libros
     static void MenuLibros()
@@ -379,6 +378,7 @@ class Menus
         } while (!Salir);
         Salir = false;
     }
+
 
 
 
