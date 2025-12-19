@@ -1,5 +1,6 @@
 class Prestamo
 {
+    // Diccionario con key "Nombre de un Usuario" y una lista como value
     static Dictionary<string, List<string>> Prestamos = new Dictionary<string, List<string>>();
 
 
@@ -191,5 +192,6 @@ class Prestamo
         }
 
     }
+
 
 }
